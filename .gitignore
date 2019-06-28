@@ -1,4 +1,6 @@
 .classpath
+.class
+.swp
 .gradle/
 .project
 .settings/
